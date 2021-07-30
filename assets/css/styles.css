@@ -263,7 +263,7 @@ img{
 }
 
 .home__img{
-  width: 280px;
+  width: 180px;
   justify-self: center;
 }
 
@@ -275,6 +275,10 @@ img{
 
 .home__description{
   margin-bottom: var(--mb-3);
+}
+
+.home__button{
+  display: flex;
 }
 
 /*========== BUTTONS ==========*/
